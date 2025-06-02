@@ -1,4 +1,4 @@
-# 🚗 Vehicle Detection and Counting System
+# 🚗 Vehicle Detection and Counting System Using YOLOV8
 
 This project uses computer vision to detect vehicles in a video stream and track them to count how many pass through a defined region.
 
